@@ -1,2 +1,4 @@
 serialize and deserialize a binary tree
 major weakness is recursive call to a function samj nhi aata how to do.
+3)check if bst or not
+4)
